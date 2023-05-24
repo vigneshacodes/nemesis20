@@ -1,0 +1,12 @@
+.btn.btn-info {
+    color: #ffffff;
+    background-color: #5BC0DE;
+    background-image: linear-gradient(to bottom, #5BC0DE, #2AABD2);
+    border-color: #28A4C9 #28A4C9 #28A4C9;
+}
+.btn.btn-info:hover {
+    color: #ffffff;
+    background-color: #2AABD2;
+    background-image: linear-gradient(to bottom, #2AABD2, #2AABD2);
+    border-color: #28A4C9 #28A4C9 #28A4C9;
+}
